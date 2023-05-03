@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+
 import { Phonebook } from './Phonebook/Phonebook';
 import { Contacts } from './Contacts/Contacts';
 import { FilterContacts } from './FilterContacts/FilterContacts';
